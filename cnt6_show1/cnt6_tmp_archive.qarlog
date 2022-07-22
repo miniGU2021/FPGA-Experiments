@@ -1,0 +1,25 @@
+Quartus II Archive log --	C:/mySource/experiments/cnt6_old/cnt6_tmp_archive.qarlog
+
+Archive:	C:/mySource/experiments/cnt6_old/cnt6_tmp_archive.qar
+Date:		Wed May 19 09:45:50 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/mySource/experiments/cnt6_old/Waveform.vwf
+C:/mySource/experiments/cnt6_old/assignment_defaults.qdf
+C:/mySource/experiments/cnt6_old/cnt6.bdf
+C:/mySource/experiments/cnt6_old/cnt6.qpf
+C:/mySource/experiments/cnt6_old/cnt6.qsf
+C:/mySource/experiments/cnt6_old/db/cnt6.cmp.hdb
+C:/mySource/experiments/cnt6_old/db/cnt6.db_info
+C:/mySource/experiments/cnt6_old/incremental_db/compiled_partitions/cnt6.db_info
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed May 19 09:45:51 2021
+Source archive file:	C:/mySource/experiments/cnt6_old/cnt6_tmp_archive.qar
+Archive was extracted into	C:/mySource/experiments/cnt6_old2/
+		 - successfully.

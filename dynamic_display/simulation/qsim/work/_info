@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\mySource\experiments\dynamic_display\simulation\qsim
+vdigsel_59
+Z1 !s100 V77m9HW_=D^HoAioUSGa;3
+Z2 I]i]XHDcA<Q7Zk;MWkY;j@3
+Z3 VoLTiM?;QnWg9IRXz8HPeZ0
+Z4 dC:\mySource\experiments\dynamic_display\simulation\qsim
+Z5 w1622506760
+Z6 8dynamic_display.vo
+Z7 Fdynamic_display.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|dynamic_display.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1622506761.362000
+Z12 !s107 dynamic_display.vo|
+!s101 -O0
+vdigsel_59_vlg_check_tst
+!i10b 1
+Z13 !s100 POedd:k`fWRJzA4D0zzze3
+Z14 IDUT0CWn?BnB?WbJE=JJYE1
+Z15 VFFfdUPP;gmdMRYma2kOmP0
+R4
+Z16 w1622506759
+Z17 8digsel_59.vwf.vt
+Z18 Fdigsel_59.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z19 !s108 1622506761.430000
+Z20 !s107 digsel_59.vwf.vt|
+Z21 !s90 -work|work|digsel_59.vwf.vt|
+!s101 -O0
+R10
+vdigsel_59_vlg_sample_tst
+!i10b 1
+Z22 !s100 3_iU>MnIz3NJAM<TSe7:C1
+Z23 IfTSj45Qm<YKNUJc>f[d8_2
+Z24 V[aWHn;T^gz0nbE^^_P_1>3
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vdigsel_59_vlg_vec_tst
+!i10b 1
+Z25 !s100 8ci3J:Th6G>QBbBo48a9@2
+Z26 ID?]C2Gl8DOEQ84JD5?k@B1
+Z27 VP63nPJPGG9Q8TT2T?LXMk0
+R4
+R16
+R17
+R18
+Z28 L0 285
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vsegsel_59
+Z29 !s100 zZBjgSDYDYAe9l6534@2F0
+Z30 IS^B4aRmn5na_FTfP]D4kA1
+Z31 VZf7zNLT289Zg<T2K=B0z`0
+R4
+Z32 w1622506610
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z33 !s108 1622506611.743000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vsegsel_59_vlg_check_tst
+Z34 I=717@YnJCF:UM5i^zZ1QQ1
+Z35 V1E>TX3Q=6YSoo:YS^>AA;0
+R4
+Z36 w1622506514
+Z37 8segsel_59.vwf.vt
+Z38 Fsegsel_59.vwf.vt
+L0 73
+R8
+r1
+31
+Z39 !s108 1622506516.916000
+Z40 !s107 segsel_59.vwf.vt|
+Z41 !s90 -work|work|segsel_59.vwf.vt|
+R10
+Z42 !s100 0WnBSL3GHagkomJQfn0I63
+!i10b 1
+!s85 0
+!s101 -O0
+vsegsel_59_vlg_sample_tst
+Z43 I>ge8GK40a62fPaR>c4Gj?1
+Z44 Vd<RaFG=_C4iG_iWB`:3lR3
+R4
+R36
+R37
+R38
+L0 29
+R8
+r1
+31
+R39
+R40
+R41
+R10
+Z45 !s100 :CF`A<mPa<mLZoMUj<oO`0
+!i10b 1
+!s85 0
+!s101 -O0
+vsegsel_59_vlg_vec_tst
+Z46 InNY6[3OLhT_PQ2WgddMe_1
+Z47 VN627NWFKbUHh6ldRK16WL0
+R4
+Z48 w1622506609
+R17
+R18
+L0 29
+R8
+r1
+31
+R10
+Z49 !s100 UR@ah?[F5`Q?I[HTZz@d:1
+Z50 !s108 1622506611.816000
+Z51 !s107 digsel_59.vwf.vt|
+R21
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,265 @@
+$comment
+	File created using the following command:
+		vcd file dynamic_display.msim.vcd -direction
+$end
+$date
+	Mon May 31 20:19:21 2021
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module digsel_59_vlg_vec_tst $end
+$var reg 3 ! SEL_59 [2:0] $end
+$var wire 1 " DIGOUT_59 [7] $end
+$var wire 1 # DIGOUT_59 [6] $end
+$var wire 1 $ DIGOUT_59 [5] $end
+$var wire 1 % DIGOUT_59 [4] $end
+$var wire 1 & DIGOUT_59 [3] $end
+$var wire 1 ' DIGOUT_59 [2] $end
+$var wire 1 ( DIGOUT_59 [1] $end
+$var wire 1 ) DIGOUT_59 [0] $end
+$var wire 1 * sampler $end
+$scope module i1 $end
+$var wire 1 + gnd $end
+$var wire 1 , vcc $end
+$var wire 1 - unknown $end
+$var tri1 1 . devclrn $end
+$var tri1 1 / devpor $end
+$var tri1 1 0 devoe $end
+$var wire 1 1 DIGOUT_59[7]~output_o $end
+$var wire 1 2 DIGOUT_59[6]~output_o $end
+$var wire 1 3 DIGOUT_59[5]~output_o $end
+$var wire 1 4 DIGOUT_59[4]~output_o $end
+$var wire 1 5 DIGOUT_59[3]~output_o $end
+$var wire 1 6 DIGOUT_59[2]~output_o $end
+$var wire 1 7 DIGOUT_59[1]~output_o $end
+$var wire 1 8 DIGOUT_59[0]~output_o $end
+$var wire 1 9 SEL_59[0]~input_o $end
+$var wire 1 : SEL_59[1]~input_o $end
+$var wire 1 ; SEL_59[2]~input_o $end
+$var wire 1 < inst|15~0_combout $end
+$var wire 1 = inst|15~1_combout $end
+$var wire 1 > inst|15~2_combout $end
+$var wire 1 ? inst|15~3_combout $end
+$var wire 1 @ inst|15~4_combout $end
+$var wire 1 A inst|15~5_combout $end
+$var wire 1 B inst|15~6_combout $end
+$var wire 1 C inst|15~7_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x*
+0+
+1,
+x-
+1.
+1/
+10
+x1
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+09
+0:
+0;
+x<
+x=
+x>
+x?
+x@
+xA
+xB
+xC
+$end
+#1660
+0?
+#1661
+0>
+#1764
+0=
+#1772
+0<
+#1774
+0@
+#1775
+0A
+#4480
+0B
+#4482
+1C
+#5030
+12
+1#
+#5036
+15
+1&
+#5045
+14
+1%
+#5094
+13
+1$
+#5123
+16
+1'
+#5652
+11
+1"
+#7841
+17
+1(
+#8276
+08
+0)
+#2000000
+b1 !
+0*
+#2000525
+19
+#2004662
+1B
+#2004682
+0C
+#2008139
+07
+0(
+#2008342
+18
+1)
+#4000000
+b11 !
+b10 !
+1*
+#4000525
+1:
+#4000698
+09
+#4002382
+0B
+1@
+#4005157
+0@
+#4005166
+1A
+#4005743
+17
+1(
+#4005754
+05
+0&
+#4008419
+15
+1&
+#4008631
+06
+0'
+#6000000
+b11 !
+0*
+#6000525
+19
+#6004648
+1@
+#6004675
+0A
+#6008020
+05
+0&
+#6008023
+16
+1'
+#8000000
+b111 !
+b101 !
+b100 !
+1*
+#8000515
+1;
+#8000698
+0:
+09
+#8002248
+0@
+#8002462
+1>
+#8005110
+0>
+#8005137
+1?
+#8005510
+15
+1&
+#8008637
+04
+0%
+#10000000
+b101 !
+0*
+#10000525
+19
+#10004603
+1>
+#10004629
+0?
+#10008014
+14
+1%
+#10008160
+03
+0$
+#12000000
+b111 !
+b110 !
+1*
+#12000525
+1:
+#12000698
+09
+#12002367
+0>
+#12002375
+1<
+#12005114
+0<
+#12005125
+1=
+#12005800
+13
+1$
+#12008505
+02
+0#
+#14000000
+b111 !
+0*
+#14000525
+19
+#14004608
+1<
+#14004627
+0=
+#14007893
+12
+1#
+#14008536
+01
+0"
+#16000000

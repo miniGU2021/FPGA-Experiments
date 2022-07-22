@@ -1,0 +1,30 @@
+Quartus II Archive log --	C:/mySource/experiments/static_display_m10/static_display_m10_tmp_archive.qarlog
+
+Archive:	C:/mySource/experiments/static_display_m10/static_display_m10_tmp_archive.qar
+Date:		Fri May 28 07:05:58 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/mySource/experiments/static_display_m10/assignment_defaults.qdf
+C:/mySource/experiments/static_display_m10/cnt_m10.bdf
+C:/mySource/experiments/static_display_m10/cnt_m10.vwf
+C:/mySource/experiments/static_display_m10/db/static_display.cmp.hdb
+C:/mySource/experiments/static_display_m10/db/static_display.db_info
+C:/mySource/experiments/static_display_m10/decoder_59.bdf
+C:/mySource/experiments/static_display_m10/decoder_59.vwf
+C:/mySource/experiments/static_display_m10/fre_div_59.bdf
+C:/mySource/experiments/static_display_m10/incremental_db/compiled_partitions/static_display.db_info
+C:/mySource/experiments/static_display_m10/m100_59.bdf
+C:/mySource/experiments/static_display_m10/static_display.qsf
+C:/mySource/experiments/static_display_m10/static_display_59.bdf
+C:/mySource/experiments/static_display_m10/static_display_m10.qpf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri May 28 07:06:00 2021
+Source archive file:	C:/mySource/experiments/static_display_m10/static_display_m10_tmp_archive.qar
+Archive was extracted into	C:/mySource/experiments/dynamic_display/
+		 - successfully.

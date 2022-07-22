@@ -1,0 +1,54 @@
+# do dynamic_display_m100.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module dynamic_display_m100
+# 
+# Top level modules:
+# 	dynamic_display_m100
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module dynamic_display_m100_vlg_vec_tst
+# 
+# Top level modules:
+# 	dynamic_display_m100_vlg_vec_tst
+# vsim -L cycloneiii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -voptargs=\"+acc\" -t 1ps -novopt work.dynamic_display_m100_vlg_vec_tst 
+# Loading work.dynamic_display_m100_vlg_vec_tst
+# Loading work.dynamic_display_m100
+# Loading cycloneiii_ver.cycloneiii_io_obuf
+# Loading cycloneiii_ver.cycloneiii_io_ibuf
+# Loading cycloneiii_ver.cycloneiii_lcell_comb
+# Loading altera_ver.dffeas
+# Loading cycloneiii_ver.cycloneiii_clkctrl
+# Loading cycloneiii_ver.cycloneiii_mux41
+# Loading cycloneiii_ver.cycloneiii_ena_reg
+# SDF 10.1d Compiler 2012.11 Nov  2 2012
+# 
+# Loading instances from dynamic_display_m100_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from dynamic_display_m100_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst File: digsel_59.vwf.vt
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:1131 ps, d:1203 ps, 212 ps );
+#    Time: 1203 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst1|inst|31 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:1230 ps, d:1239 ps, 212 ps );
+#    Time: 1239 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst3|inst|3 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:1119 ps, d:1243 ps, 212 ps );
+#    Time: 1243 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst1|inst|3 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:1297 ps, d:1310 ps, 212 ps );
+#    Time: 1310 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\counter|31 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:1301 ps, d:1348 ps, 212 ps );
+#    Time: 1348 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\counter|3 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(292): $hold( posedge clk &&& sloaddata:1335 ps, asdata:1479 ps, 212 ps );
+#    Time: 1479 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst2|31 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(292): $hold( posedge clk &&& sloaddata:1540 ps, asdata:1632 ps, 212 ps );
+#    Time: 1632 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst2|6 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(292): $hold( posedge clk &&& sloaddata:1582 ps, asdata:1755 ps, 212 ps );
+#    Time: 1755 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\display|select|6 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(292): $hold( posedge clk &&& sloaddata:1766 ps, asdata:1853 ps, 212 ps );
+#    Time: 1853 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\counter|33 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(292): $hold( posedge clk &&& sloaddata:1708 ps, asdata:1857 ps, 212 ps );
+#    Time: 1857 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst1|inst|6 
+# ** Error: c:/altera/13.1/modelsim_ase/win32aloem/../altera/verilog/src/altera_primitives.v(289): $hold( posedge clk &&& nosloadsclr:2898 ps, d:2915 ps, 212 ps );
+#    Time: 2915 ps  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst/i1/\inst|inst2|7 
+# ** Note: $finish    : digsel_59.vwf.vt(46)
+#    Time: 1 us  Iteration: 0  Instance: /dynamic_display_m100_vlg_vec_tst

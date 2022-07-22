@@ -1,0 +1,27 @@
+Quartus II Archive log --	C:/mySource/experiments/fre_div/fre_div_tmp_archive.qarlog
+
+Archive:	C:/mySource/experiments/fre_div/fre_div_tmp_archive.qar
+Date:		Sun May 23 01:27:41 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/mySource/experiments/fre_div/db/fre_div.cmp.hdb
+C:/mySource/experiments/fre_div/db/fre_div.db_info
+C:/mySource/experiments/fre_div/fre_div.qpf
+C:/mySource/experiments/fre_div/fre_div.qsf
+C:/mySource/experiments/fre_div/fre_div_59.bdf
+C:/mySource/experiments/fre_div/fre_div_59.vwf
+C:/mySource/experiments/fre_div/incremental_db/compiled_partitions/fre_div.db_info
+C:/mySource/experiments/fre_div/m100_59.bdf
+C:/mySource/experiments/fre_div/m100_59.vwf
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun May 23 01:27:42 2021
+Source archive file:	C:/mySource/experiments/fre_div/fre_div_tmp_archive.qar
+Archive was extracted into	C:/mySource/experiments/fre_div_c4/
+		 - successfully.
